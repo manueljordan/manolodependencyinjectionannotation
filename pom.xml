@@ -8,7 +8,7 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	<name>ManoloDependencyInjectionAnnotation</name>
-	<url>http://manueljordan.wordpress.com/</url>
+	<url>http://manueljordanelera.blogspot.com/</url>
 	<description>
 		<![CDATA[
       Simple Sample App working with Spring Framework through *only* Annotation for configuration purposes. 
